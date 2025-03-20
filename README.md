@@ -1,49 +1,45 @@
-👋 Hi, I'm @st3vebrush,
+# 👋 Hello, I'm Stéphane (@st3vebrush)
 
+## Experienced | DevOps | Fullstack Dev | SysAdmin
 
-Full Stack Developer | System Administrator | Eco-Conscious Coder
-With over two decades of experience in the tech world, I specialize in crafting efficient, scalable, and environmentally-friendly digital solutions.
-From intricate backend systems to sleek frontend interfaces, I bring ideas to life through code.
+With over 15 years in the tech industry, I've developed extensive expertise in creating robust infrastructures and optimizing development processes. My journey has led me to design distributed architectures that operate 24/7, automate complex deployments, and develop high-performance applications.
 
+### 🚀 My Journey
 
-- 👀 I'm interested in full-stack development, system administration, and eco-friendly coding practices
-- 🌱 I'm currently exploring advanced web technologies and improving my skills in SvelteKit (quite new) and DevOps practices
-- 💞️ I'm looking to collaborate on innovative web applications or open-source initiatives with a focus on sustainability
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sbrush/) or email at steve+99@d3velopment.fr
-- ⚡ Fun fact: I've been coding for over two decades and still love learning new technologies!
+I started as a fullstack developer before moving into DevOps, interested in optimizing the entire application lifecycle. This dual expertise gives me a comprehensive view of projects, from design to production.
 
-## 🚀 Skills
-- Languages: C++, PHP, Python, JavaScript, TypeScript, HTML5, CSS3, etc.
-- Frontend: SvelteKit, Vue.js
-- Backend: Symfony, Flask, Node.js
-- DevOps: Docker, Git, CI/CD
-- Databases: MySQL, Postgresql
-- Other: System Administration, RESTful APIs, UML, nginx, unit, haproxy
+For nearly 7 years, I led Iridium's blockchain infrastructure, where I took on the challenge of maintaining permanent availability on a distributed architecture. This experience taught me the importance of resilience and traceability in critical environments.
 
-## 💼 Key Projects
-- **Full-Stack Web Applications**: Developed and maintained multiple web applications using various tech stacks (2021-Present)
-- **E-commerce Platform**: Created a custom e-commerce solution with payment integration (2009-2011)
-- **Content Management Systems**: Implemented and customized CMS solutions for various clients
+Today, through D3velopment, I design custom solutions that combine performance, security, and sustainability.
 
-## 🌟 Experience
-- Freelance Full Stack Developer (2024-Present)
-- Full Stack Developer for various projects (2000-2024)
-- System Administrator and Full Stack Developer (2001-2024)
+### 💡 What Interests Me
 
-## 🎓 Education
-- DEUG, Mathématiques et informatique - Université de Tours (1990-1992)
-- Licence, Sciences, Arts et techniques de l'image et du son - Aix-Marseille Université (AMU) (1993-1994)
+- **Building lasting architectures**: I create infrastructures that withstand the test of time and scaling challenges.
+- **Automating the automatable**: Implementing CI/CD pipelines that free teams from repetitive tasks.
+- **Optimizing performance**: Tracking bottlenecks and improving response times.
+- **Developing eco-responsible solutions**: Reducing the environmental footprint of infrastructures while optimizing costs.
 
-## 🌱 Eco-Friendly Approach
-I'm committed to eco-responsible development practices, aiming to reduce the ecological footprint of my projects. I strive to deliver high-performance, scalable solutions that are both innovative and environmentally conscious.
+### 🛠️ My Toolbox
 
-## 📜 Certifications
-- "HTML5 et CSS3" - OpenClassrooms (2021)
-- "C++" - OpenClassrooms (2020)
+Over the years, I've refined my mastery of numerous tools:
 
-Feel free to reach out for collaborations or just to chat about tech and sustainable development practices!
+**Infrastructure & DevOps**: Docker, Ansible, GitLab CI/CD, GitHub Actions, Proxmox, Linux (Debian)  
+**Monitoring**: ELK Stack, Grafana, Zabbix  
+**Development**: C++, PHP (Symfony), Python (Flask), JavaScript (Next.js, SvelteKit)  
+**Databases**: MySQL, PostgreSQL, Redis, Elasticsearch
 
-<!---
-st3vebrush/st3vebrush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌱 My Professional Philosophy
+
+> "When facing technical challenges, I commit to systematically seeking optimal and sustainable solutions."
+
+This methodical approach, combined with an eco-responsible development approach, structures my daily work. I believe that technical excellence lies in the balance between performance, maintainability, and the reasonable use of resources.
+
+### 📫 Connect with Me
+
+If you share these values or have projects that require expertise in DevOps and development, don't hesitate to contact me:
+
+- 📧 [steve@d3velopment.fr](mailto:steve@d3velopment.fr)
+- 🔗 [linkedin.com/in/sbrush](https://www.linkedin.com/in/sbrush/)
+- 🌐 [d3velopment.fr](https://www.d3velopment.fr)
+
+I'm always open to collaborations on innovative projects, particularly those that have a positive impact on our digital and physical environment.
